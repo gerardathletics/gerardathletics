@@ -1,5 +1,5 @@
-![GitHub followers](https://img.shields.io/github/followers/gerardathletics?style=social) https://img.shields.io/twitter/follow/gerardathletics?style=social
-
+![GitHub followers](https://img.shields.io/github/followers/gerardathletics?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/gerardathletics?style=social) [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gerardathetics/)
+&nbsp;
 
 ### Hi there 👋
 
