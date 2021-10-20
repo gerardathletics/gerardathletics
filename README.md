@@ -8,10 +8,10 @@
 - I also enjoy flying drones, travelling and athletics 
 
 ![GitHub followers](https://img.shields.io/github/followers/gerardathletics?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/gerardathletics?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/gerardathletics?style=social)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/gerardathetics/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gerardathletics.gerardathletics)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gerardathetics/)
-&nbsp;
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gerardathletics&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardathletics&langs_count=3&hide=javascript,go,html,css,tex)
