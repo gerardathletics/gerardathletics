@@ -13,4 +13,5 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gerardathetics/)
 &nbsp;
 
-
+![github stats](https://github-readme-stats.vercel.app/api?username=gerardathletics&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardathletics&langs_count=3&hide=javascript,go,html,css,tex)
