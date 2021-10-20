@@ -9,6 +9,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/gerardathletics?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/gerardathletics?style=social) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gerardathletics.gerardathletics)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gerardathetics/)
 &nbsp;
 
