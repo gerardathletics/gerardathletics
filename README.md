@@ -13,5 +13,5 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gerardathletics.gerardathletics)
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gerardathletics&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardathletics)
+![github stats](https://github-readme-stats.vercel.app/api?username=gerardathletics&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardathletics&theme=merko)
