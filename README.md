@@ -5,8 +5,8 @@
 - 🔭 Graduated in [M.Sc. Geo-Information Science](https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm) at [Wageningen University & Research](https://www.wur.nl/en.htm).
 - :briefcase: I'm currently working at [Gis Specialisten](https://gisspecialisten.nl/) as a Geo Data Analyst | GIS Specialist. 
 - 🌱 I’m currently learning *Web-GIS* and *Data Science*: Python, R, HTML, CSS, JS, React, SQL...
-- ⚡ I'm passionate about: *cartography, geography, data analysis and data viz*. 
-- I also enjoy flying drones, travelling and athletics 
+- ⚡ I'm passionate about: *cartography, geography, data analysis, data viz & 3D Modelling*. 
+- I also enjoy flying drones (A1/A2/A3 EASA Certified Drone Pilot), travelling and athletics 
 
 ![GitHub followers](https://img.shields.io/github/followers/gerardathletics?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/gerardathletics?style=social)
