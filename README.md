@@ -6,7 +6,7 @@
 - :briefcase: I'm currently working at [Gis Specialisten](https://gisspecialisten.nl/) as a Geo Data Analyst | GIS Specialist. 
 - 🌱 I’m currently learning *Web-GIS* and *Data Science*: Python, R, HTML, CSS, JS, React, SQL...
 - ⚡ I'm passionate about: *cartography, geography, data analysis, data viz & 3D Modelling*. 
-- I also enjoy flying drones (A1/A2/A3 EASA Certified Drone Pilot), travelling and athletics 
+- I also enjoy flying drones (A1/A3, A2 EASA Certified Drone Pilot), travelling and athletics 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gerardathletics) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardathletics) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gerardathletics) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gerardathletics) 
