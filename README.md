@@ -1,6 +1,8 @@
 
 # Hello! 👋 I'm Georard - @gerardathletics
 
+I am a curious cartographer/mapmaker who likes programming and developing apps, of course, related to maps :)
+
 - :earth_africa: Graduated in [B.Sc. Geography and Spatial Planning](http://www.geografia.udl.cat/en/) at [Universtitat de Lleida](http://www.udl.es/ca/en/).
 - 🔭 Graduated in [M.Sc. Geo-Information Science](https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm) at [Wageningen University & Research](https://www.wur.nl/en.htm).
 - :briefcase: I'm currently working at [Ordina](https://www.ordina.com/) as a GIS Developer | GIS Specialist. 
