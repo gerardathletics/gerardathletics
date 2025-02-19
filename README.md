@@ -1,14 +1,16 @@
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/6bd4309e-16c0-4076-befc-b436e143ee58)
 
-# Hello! 👋 I'm Georard - @gerardathletics
 
-I am a curious cartographer & Geo Software Developer who likes making interactive maps and geo-apps. 
+# Hello! 👋 I'm Gerard (aka Georard or Gerardathletics)
+
+I am a curious Geo Software Developer who loves making interactive maps and geo-apps, discovering and experimenting with new technologies and learning new things. 
 
 - :earth_africa: Graduated in [B.Sc. Geography and Spatial Planning](http://www.geografia.udl.cat/en/) at [Universtitat de Lleida](http://www.udl.es/ca/en/).
 - 🔭 Graduated in [M.Sc. Geo-Information Science](https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm) at [Wageningen University & Research](https://www.wur.nl/en.htm).
 - :briefcase: I'm currently working at [Sopra Steria](https://www.ordina.com/) as a Geo Software Developer. 
-- 🌱 Passionate and constantly learning, focused on *Web-GIS* and *Data Science*: Python, R, HTML, CSS, JS, React, SQL...
-- ⚡ I'm passionate about: *cartography, geography, data analysis, data viz & 3D Modelling*. 
-- I also enjoy flying drones (A1/A3, A2 EASA Certified Drone Pilot), travelling and athletics 
+- 🌱 Constantly learning, focused on *Web-GIS* and *Data Science*: Python, JS-TS, React, Angular, SQL...
+- ⚡ I'm passionate about: *web development, cartography, geography, spatial analysis, data viz & 3D Modelling*. 
+- I also enjoy flying drones (A1/A3, A2 EASA Certified Drone Pilot), travelling, latin dances and athletics. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gerardathletics) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardathletics)
