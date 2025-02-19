@@ -1,4 +1,5 @@
-![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/6bd4309e-16c0-4076-befc-b436e143ee58)
+![White Minimalist Profile LinkedIn Banner(1)](https://github.com/user-attachments/assets/d29ca361-230c-41cf-b920-892f151da6bb)
+
 
 
 # Hello! 👋 I'm Gerard (aka Georard or Gerardathletics)
