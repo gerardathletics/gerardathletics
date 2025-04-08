@@ -8,8 +8,8 @@ I am a curious Geo Software Developer who loves making interactive maps and geo-
 
 - :earth_africa: Graduated in [B.Sc. Geography and Spatial Planning](http://www.geografia.udl.cat/en/) at [Universtitat de Lleida](http://www.udl.es/ca/en/).
 - 🔭 Graduated in [M.Sc. Geo-Information Science](https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm) at [Wageningen University & Research](https://www.wur.nl/en.htm).
-- :briefcase: I'm currently working at [Sopra Steria](https://www.ordina.com/) as a Geo Software Developer. 
-- 🌱 Constantly learning, focused on *Web-GIS* and *Data Science*: Python, JS-TS, React, Angular, SQL...
+- :briefcase: I'm currently working at [Sopra Steria](https://www.soprasteria.nl/) as a Geo Software Developer. 
+- 🌱 Constantly learning, now focused on Full-stack web development and Web-GIS.
 - ⚡ I'm passionate about: *web development, cartography, geography, spatial analysis, data viz & 3D Modelling*. 
 - I also enjoy flying drones (A1/A3, A2 EASA Certified Drone Pilot), travelling, latin dances and athletics.
 
