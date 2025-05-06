@@ -56,6 +56,7 @@ I am a curious Geo Software Developer who loves making interactive maps and geo-
  ```geojson
 {
   "type": "FeatureCollection",
+  "bbox": [4.97504, 52.00074, 5.26830, 52.18092],
   "features": [
     {
       "type": "Feature",
@@ -64,16 +65,8 @@ I am a curious Geo Software Developer who loves making interactive maps and geo-
         "ID": 0
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [5.05, 52.04],
-            [5.15, 52.04],
-            [5.15, 52.14],
-            [5.05, 52.14],
-            [5.05, 52.04]
-          ]
-        ]
+        "type": "Point",
+        "coordinates": [5.12167, 52.09083]
       }
     }
   ]
